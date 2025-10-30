@@ -2,7 +2,7 @@
 <div align="center">
 <h1>Website Toko Bangunan</h1>
     
-<p>Web app untuk manajemen stok & transaksi toko bangunan</p>
+<p>Web untuk manajemen stok & transaksi toko bangunan</p>
 
 
 <img width="872" height="432" alt="image" src="https://github.com/user-attachments/assets/f4bb3a2c-481a-49e2-83c2-30880b19deb4" />
